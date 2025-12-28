@@ -1,0 +1,1 @@
+vless://94c5797e-46ad-4e62-b9cb-c5c5068e47a7@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ws.fjdjdjfjd.icu&fp=chrome&allowinsecure=0&type=xhttp&sni=ws.fjdjdjfjd.icu#%F0%9F%87%A8%F0%9F%87%BF+Czech+Republic+%5B*CIDR%5D
